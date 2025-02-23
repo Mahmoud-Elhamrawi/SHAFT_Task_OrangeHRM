@@ -15,5 +15,5 @@
 <li> Delete the new user</li>
 <li> Verify that the number of records decreased by 1 </li>
 </ol>
-
+<h3>TO Re-Run change the user name in JSON file </h3>
 <a href="https://opensource-demo.orangehrmlive.com/">Link Of Demo</a>
