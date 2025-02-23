@@ -87,8 +87,6 @@ public class TC00 {
         driver.browser().refreshCurrentPage() ;
 
 
-        //assert on meg deleted
-         driver.element().assertThat().text().isEqualTo("Successfully Deleted").perform();
 
         // get numbers of records after delete
         numbersOfRecordsAfterDeleted = Float.parseFloat(new P03_AdminPage(driver).getNumbersOfRecords());

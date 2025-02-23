@@ -39,7 +39,7 @@ public class P04_addingAdminPage {
 
 
 
-  //Method Actions
+    //Method Actions
     public P03_AdminPage addNewAdminUser(String userName ,String empName, String Password)
     {
         driver.element()
@@ -65,6 +65,7 @@ public class P04_addingAdminPage {
     {
         return successMSg_Toast ;
     }
+
 
 
 

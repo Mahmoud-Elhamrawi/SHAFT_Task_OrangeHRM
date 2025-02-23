@@ -27,7 +27,7 @@ public class P03_AdminPage
    private final By confirmDelete_Btn = By.xpath("//button[contains(@class,'oxd-button--label-danger')]") ;
 
 
-   private final By deleteMSg_Toast = By.xpath("//p[contains(@class,'oxd-text--toast-message')]");
+//   private final By deleteMSg_Toast = By.xpath("//p[contains(@class,'oxd-text--toast-message')]");
 
     //Methods Actions
     public By getByLocatorText()
@@ -67,10 +67,7 @@ public class P03_AdminPage
         return this;
     }
 
-    public By getLocatorMessageDeleted()
-    {
-        return deleteMSg_Toast ;
-    }
+
 
 
 
