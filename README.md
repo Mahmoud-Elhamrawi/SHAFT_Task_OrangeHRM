@@ -1,7 +1,7 @@
 <h1>Automation QC Engineer Assessment Test</h1>
 <h3></h3>Details : </h3>
 <ol>
-<li></li>Navigate to "https://opensource-demo.orangehrmlive.com/"</li>
+<li> Navigate to "https://opensource-demo.orangehrmlive.com/"</li>
 <li> Enter "Admin" as username</li>
 <li> Enter "admin123" as password</li>
 <li> Click on the login button</li>
